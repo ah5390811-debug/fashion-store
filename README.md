@@ -1,4 +1,4 @@
-# VELORA — Fashion Store
+# Labobo — Fashion Store
 
 Fashion e-commerce store website for Laiba.
 
